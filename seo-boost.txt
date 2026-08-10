@@ -1,7 +1,7 @@
-last_seo_boost=2026-08-10T07:43:25Z
+last_seo_boost=2026-08-10T08:00:41Z
 slug=deborah-ewurama-akuoko
 platforms=huggingface+github+pages
-prefer=huggingface
+prefer=wordpress
 hf=https://huggingface.co/0001AMA/deborah-ewurama-akuoko
 public=true
 purpose=machine-intelligence-technical-profile
